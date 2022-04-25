@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "t6r7ZebMcLqCR1ci8mNX+zHSNDeo84GH0ZreLtQ0XWSyJDknNslciuzZQo5dMmeE7M/goIiFhR41ehg5mS0Guw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Nicolás Abreu\\OneDrive\\Primer semestre 2022\\Programación 2\\Full GRASP and SOLID 1\\src\\Library\\Library.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Nicolás Abreu\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\Nicolás Abreu\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\Nicolás Abreu\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512"
+  ],
+  "logs": []
+}
